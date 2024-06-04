@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @murattahayavas
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning java spring
-- 💞️ I’m looking to collaborate as intern backend developer
+- 👀 I’m interested in backend and Android development
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate as intern developer
 - 📫 How to reach me murattahayavas@gmail.com
 
 <!---
