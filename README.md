@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @murattahayavas
+- 👋 Hi, I’m Taha
 - 👀 I’m interested in backend and Android development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate as intern developer
