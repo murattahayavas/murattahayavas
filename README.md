@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taha
-- 👀 I’m interested in backend and Android development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Java/Swing
 - 💞️ I’m looking to collaborate as intern developer
 - 📫 How to reach me murattahayavas@gmail.com
