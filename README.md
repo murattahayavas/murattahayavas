@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Taha
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Java/Swing
+- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate as intern developer
 - 📫 How to reach me mtahayvs@gmail.com
 
