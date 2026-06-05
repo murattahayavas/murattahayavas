@@ -1,4 +1,4 @@
-# Hi, I'm Murat Taha Yavas
+# Hi, it's Taha
 
 ### AI & Data Science enthusiast focused on building practical web and software projects.
 
@@ -52,11 +52,10 @@ I enjoy turning ideas into working applications, especially in artificial intell
 
 | Project | Description | Main Technologies |
 | --- | --- | --- |
-| [Internal Inventory Assignment System](https://github.com/murattahayavas/internal-inventory-assignment-system) | Role-based inventory and assignment tracking system with admin/user workflows. | ASP.NET Core MVC, EF Core, Identity, SQL Server |
-| [Background Removing Tool](https://github.com/murattahayavas/Background-Removing-Tool) | Desktop tool for removing image backgrounds with a simple interface. | Python, Tkinter |
-| [YouTube Video Downloader](https://github.com/murattahayavas/Youtube-Video-Downloader) | GUI application for downloading YouTube videos. | Python |
-| [Library Management System](https://github.com/murattahayavas/Library-Management-System) | Command-line library management app built with object-oriented programming. | Python |
-| [Basic Calculator](https://github.com/murattahayavas/Basic-Calculator) | Basic calculator application for practicing mobile/software fundamentals. | Kotlin |
+| [Medical Text Simplification with LLMs](https://github.com/murattahayavas/Medical-Text-Simplification-with-LLMs) | Multi-agent medical text simplification system using Llama-3.3, RAG with FAISS, and a Reflexion loop for clinical reports. | TypeScript, LLMs, RAG, FAISS |
+| [Classification of Solar Panels Defects Based on Deep Learning](https://github.com/murattahayavas/Classification-of-Solar-Panels-Defects-Based-on-Deep-Learning) | Deep learning project for automatic solar panel fault classification and defect detection using YOLO and related analysis tools. | Python, Deep Learning, YOLO |
+| [Internal Inventory Assignment System](https://github.com/murattahayavas/internal-inventory-assignment-system) | Role-based inventory, device assignment, and fault report tracking system with admin and user workflows. | ASP.NET Core MVC, EF Core, Identity, SQL Server |
+| [Premier Zone](https://github.com/murattahayavas/Premier-Zone) | Spring Boot backend project for football team and player information, built as a hobby-style sports application. | Java, Spring Boot, Backend Development |
 
 ---
 
